@@ -48,8 +48,8 @@ Note:- 65% current coverage can extend >80 %
 ![img.png](img.png)
 
 ### Dockerized (see Docker file in classpath) :- Can be improved
-#### docker build -t invoice.
-#### docker run -p 8080:8080 -t invoice
+#### docker build -t bookstore.
+#### docker run -p 8080:8080 -t bookstore
 
 ### Postman Collection attached(see in classpath)
 File bookStore.postman_collection.json
